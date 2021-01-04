@@ -12,6 +12,7 @@
 <a href="https://kaggle.com/egyfarandikas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="egyfarandikas" height="30" width="40" /></a>
 <a href="https://instagram.com/egyfarandikasss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="egyfarandikasss" height="30" width="40" /></a>
 <a href="https://medium.com/@egyfarandikasss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@egyfarandikasss" height="30" width="40" /></a>
+<a href="mailto:egyfarandika23@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
