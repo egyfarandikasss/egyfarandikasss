@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Egy</h1>
+<h1 align="left">Hi 👋, I'm Egy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egyfarandikasss&label=Profile%20views&color=0e75b6&style=flat" alt="egyfarandikasss" /> </p>
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [github.com/egyfarandikasss](My github channel)
+- 👨‍💻 All of my projects are available at [my github channel](My github channel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
