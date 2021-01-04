@@ -12,7 +12,6 @@
 <a href="https://kaggle.com/egyfarandikas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="egyfarandikas" height="30" width="40" /></a>
 <a href="https://instagram.com/egyfarandikasss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="egyfarandikasss" height="30" width="40" /></a>
 <a href="https://medium.com/@egyfarandikasss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@egyfarandikasss" height="30" width="40" /></a>
-<a href="mailto:egyfarandika23@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egyfarandikasss&show_icons=true&locale=en&layout=compact" alt="egyfarandikasss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egyfarandikasss&show_icons=true&locale=en" alt="egyfarandikasss" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=egyfarandikasss&show_icons=true&locale=en" alt="egyfarandikasss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egyfarandikasss&" alt="egyfarandikasss" /></p>
