@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egyfarandikasss&label=Profile%20views&color=ff0063&style=flat" alt="egyfarandikasss" /> </p>
 
 <p align="justify">
-  I am passionate about Data, Machine Learning and Statistics, and I love Papaya. I am from Indonesia and I looking for a job related to data and machine learning. 
+  I am bachelor of statistics and I am passionate about Data, Machine Learning and Statistics. I am from Indonesia and I looking for a job related to data and machine learning. 
 </p>
 
 - 🌱 I’m currently learning **Python and Machine Learning**
